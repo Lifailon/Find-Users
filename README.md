@@ -5,4 +5,4 @@
 
 Пример вывода:
 
-![Image alt](https://github.com/Lifailon/Find-Users/blob/rsa/interface.jpg)
+![Image alt](https://github.com/Lifailon/Find-Users/blob/rsa/interface-out.jpg)
